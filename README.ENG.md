@@ -1,5 +1,5 @@
 # Chinese operator IP address database
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fgaoyifan%2Fchina-operator-ip.svg?type=shield)](https://app.fossa .io/projects/git%2Bgithub.com%2Fgaoyifan%2Fchina-operator-ip?ref=badge_shield)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fgaoyifan%2Fchina-operator-ip.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fgaoyifan%2Fchina-operator-ip?ref=badge_shield)
 
 
 IP address database classified according to Chinese network operators
